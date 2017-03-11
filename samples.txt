@@ -1,0 +1,10 @@
+./samples/IMG_4975.png.vec
+./samples/IMG_4977.png.vec
+./samples/IMG_5014.png.vec
+./samples/IMG_5186.png.vec
+./samples/IMG_5187.png.vec
+./samples/IMG_5190.png.vec
+./samples/IMG_5241.png.vec
+./samples/IMG_5247.png.vec
+./samples/Motor-World-Car-Factory-Guide2.png.vec
+./samples/timechanged.png.vec

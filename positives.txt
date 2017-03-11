@@ -1,0 +1,11 @@
+./positive_images/IMG_4975.png
+./positive_images/IMG_4977.png
+./positive_images/IMG_5014.png
+./positive_images/IMG_5186.png
+./positive_images/IMG_5187.png
+./positive_images/IMG_5190.png
+./positive_images/IMG_5241.png
+./positive_images/IMG_5247.png
+./positive_images/Motor-World-Car-Factory-Guide2.png
+./positive_images/timechanged.png
+./positive_images/UI.png
